@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome to shool ~/alx-system_engineering-devops/0x00-shell-basics
+mkdir -p welcome/to/school ~/alx-system_engineering-devops/0x00-shell-basics
