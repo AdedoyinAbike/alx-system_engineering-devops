@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -c 777 ../.
+chmod -c 755 ../.
